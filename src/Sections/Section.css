@@ -1,0 +1,38 @@
+.Section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+
+    height: 100vh;
+    width: 100%;
+    border-bottom: 3px solid black;
+    background-color: white;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.Section p{
+    font-family: 'inter';
+    font-size: 1rem;
+    font-weight: 500;
+    color: #3D4E48;
+    line-height: 1.3rem;
+    text-align: justify;
+
+    width: 90%;
+    padding: 0.4rem;
+    margin: 0.4rem;
+
+}
+
+.sdgImages img{
+    height: 88px;
+    width: 88px;
+    border-radius: 10px;
+    margin: 10px;
+}
