@@ -35,6 +35,7 @@
     max-height: 700px;
     border-radius: 20px;
 }
+
 .text{
     display: flex;
     flex-direction: column;

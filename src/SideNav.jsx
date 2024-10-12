@@ -18,4 +18,4 @@ function SideNav(){
     )
 }
 
-export default SideNav
+export default SideNav;

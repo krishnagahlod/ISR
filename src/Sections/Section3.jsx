@@ -51,6 +51,8 @@ function Section3() {
           </p>
         </div>
       </div>
+
+      
       <div className="bottomBar">
         <div className="text">
           <p>
